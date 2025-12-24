@@ -26,7 +26,6 @@
         </inertial>
     </link>
 
-    <!-- NEW: intermediate link after yaw joint -->
     <link name="link_0">
         <visual>
             <geometry>
